@@ -1,3 +1,2 @@
-import os
-
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = "8207140371:AAGTatDwUw4568cIqzp_tDj4dOCnrWu3nS0"
+BOT2_USERNAME = "@MckMovieBot"
